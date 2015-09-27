@@ -1,0 +1,70 @@
+
+Vocalizer v1.0
+
+FAQ
+
+Q. What does Vocalizer do ?
+
+A. Well,It doesn't do anything...yeah It's true  :D ,but you can do everything with it. That's the point , it was created to provide the user with an application that has ultimate text to speech functionality and decent note taking capabilities so that it becomes his second voice .The application has everything you would want with a tts application and more.
+  
+  
+  
+Q. What i can do with  with Vocalizer ?
+
+A. At this time Vocalizer has features like :
+  1)Speak the text entered by user in 6 different languages.
+  2)Change the properties of speech like pitch,speed and volume.
+  3)Create and save instant notes in a dynamic list.
+  4)Reset the list by just the tap of a button.
+  5)Tap the list items to initiate the tts voice to speak the text.
+  6)Edit,delete or send the note as a message,e-mail or through bluetooth .
+  7)Save the tts output on sd card or share it using email or bluetooth.
+  8)Load text files from sdcard into the List and ask the tts engine to recite it.
+  9)Create a list of items and ask the tts engine to speak list items one by one.
+  
+  
+  
+Q. What to do if my Android Device doesn't speak like it should ?
+
+A. Most Android devices by default have a TTS engine like Pico TTS but if by chance you device doesn't have TTS data. The application will prompt you to download it from market.
+
+
+
+Q. Can i use Vocalizer with 3rd party TTS engines  ?
+
+A. Ofcourse ,you can but to ensure that remember to change the TTS settings from the menu option.
+
+
+
+Q. I am having a lot of Force close issues . what to do ?
+
+A. Although this application was thoroughly tested on many android devices we cann't guarantee that it works perfectly on all devices. If you have any issues send us a feedback with you Device Model , OS version ,kernel info and the log file.We will look into it and try the correct the issue asap.
+  
+  
+  
+Q. What i can expect from future updates ?
+
+A. The present form of this application is not far from what we had imagined but there are still many areas we are working on like pdf and doc support ,ability to read webpages, store images in the list and add tags ('talking pictures'..how's the idea ? :D ) we will steadily work towards these improvements.
+  
+  
+  
+Q. What will be the frequency of updates ?
+
+A.We plan to update our applications every two weeks particularly the friday of every alternate week so you guys have nothing to worry about . We will always try and make the application worth every penny you paid for.
+  
+  
+  For Customer Support
+  Conatct Us :
+  mirrorlabs.android@gmail.com
+  kartik.android@gmail.com
+     
+  
+  Regards 
+  Kartik sharma
+  Android Developer
+  MirrorLabs
+  
+
+  
+  
+  

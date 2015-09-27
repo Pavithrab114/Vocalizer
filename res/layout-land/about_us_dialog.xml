@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF">
+  <ScrollView
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/scroll"
+      android:fillViewport="true"
+      android:layout_width="match_parent"
+      android:layout_weight="3"
+     android:layout_height="150dp" >
+
+ <LinearLayout android:layout_height="match_parent"
+     android:layout_width="match_parent">
+ <TextView
+         android:id="@+id/about_text"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_weight= "2"
+         android:padding="15dip"
+         android:text="File Browser ULTRA v 1.0 is a product of MirrorLabs . Developed by :  Kartik sharma, Android Developer MirrorLabs"
+         android:textColor="#000000"
+         android:textSize="20dp" >
+
+ </TextView>
+        
+<ImageView
+    android:id="@+id/logo_image"
+    android:layout_weight="0.1"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:src="@drawable/companylogo" />
+        
+      </LinearLayout>
+</ScrollView>
+  
+<Button
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Cancel" 
+        android:layout_weight="0.3"/>
+
+</LinearLayout>
