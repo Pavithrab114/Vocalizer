@@ -1,7 +1,7 @@
 # Vocalizer
 A simple application for Android Using TTS for Vocally impaired people
 
-Functionalities implemented :
+Functionalities implemented :</br>
 1) Add texts to listview and invoke TTS when the list item is clicked.</br>
 2) Open Text files using an inbuild File Manager and let the TTS engine read those files.</br>
 3) Save Speech output of the text files and send or share it using email, bluetooth and other sharing media.</br>
